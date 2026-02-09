@@ -5,6 +5,8 @@
 release_platforms:
   ubuntu:
   - focal
+  - jammy
+  - noble
 repositories:
   abb:
     doc:
