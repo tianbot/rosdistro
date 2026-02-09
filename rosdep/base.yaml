@@ -2136,6 +2136,8 @@ hddtemp:
     '*': null
     bionic: [hddtemp]
     focal: [hddtemp]
+    jammy: [hddtemp]
+    noble: [hddtemp]
 hdf5:
   arch: [hdf5]
   debian: [libhdf5-dev]
